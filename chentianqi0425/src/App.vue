@@ -5,7 +5,9 @@
   </nav> -->
   <router-view/>
 </template>
-g-font-smoothing: antialiased;
+<style>
+
+#app{
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
